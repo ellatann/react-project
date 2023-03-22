@@ -1,0 +1,43 @@
+.Title {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 1em;
+  margin-bottom: 2em;
+  text-align: center;
+  background-color: rgb(159, 207, 176);
+  font-size: large;
+}
+.box{
+  background-color: rgb(195, 222, 203);
+  color: rgb(98, 133, 108); 
+  height: 200px;
+  width: 30%;
+  border: 1rem;
+  display: inline-table;
+  margin-top: 20px;
+  margin-left: 13%;
+  padding: 15px;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  color: rgb(15, 96, 44);
+}
+.crossout{
+  text-decoration: line-through;
+}
+
+.sideBox{
+  background-color: rgb(195, 222, 203);
+  color: rgb(98, 133, 108); 
+  height: 200px;
+  width: 30%;
+  display: inline-table;
+  margin-left:10%;
+  padding: 15px;
+}
+button{
+  size: 3px;
+}
